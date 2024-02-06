@@ -1,24 +1,24 @@
 {
-    "name": "Forest theme",
+    "name": "Foresty theme",
     "is_dark": true,
     "colors": {
-        "accent-color": "#899ea2",
-        "primary-color": "#899ea2",
+        "accent-color": "#89A4A8",
+        "primary-color": "#89A4A8",
         "warning-color": "#bf616a",
 
-        "sidebar-color": "#2e3440",
-        "roomlist-background-color": "#14181D",
-        "roomlist-text-color": "#ebcb8b",
-        "roomlist-text-secondary-color": "#e5e9f0",
-        "roomlist-highlights-color": "#2e3440",
-        "roomlist-separator-color": "#434c5e",
+        "sidebar-color": "#14181D",
+        "roomlist-background-color": "#161B20",
+        "roomlist-text-color": "#7E8D94",
+        "roomlist-text-secondary-color": "#6E9294",
+        "roomlist-highlights-color": "#7D9DA6",
+        "roomlist-separator-color": "#161B20",
 
         "timeline-background-color": "#14181D",
-        "timeline-text-color": "#eceff4",
-        "secondary-content": "#eceff4",
-        "tertiary-content": "#eceff4",
-        "timeline-text-secondary-color": "#81a1c1",
-        "timeline-highlights-color": "#3b4252",
-        "reaction-row-button-selected-bg-color": "#bf616a"
+        "timeline-text-color": "#7E8D94",
+        "secondary-content": "#7E8D94",
+        "tertiary-content": "#7E8D94",
+        "timeline-text-secondary-color": "#6E9294",
+        "timeline-highlights-color": "#161B20",
+        "reaction-row-button-selected-bg-color": "#89A4A8"
     }
 }
